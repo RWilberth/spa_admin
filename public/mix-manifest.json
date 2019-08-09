@@ -1,0 +1,11 @@
+{
+    "/css/app.css": "/css/app.css",
+    "/js/jquery-validation.js": "/js/jquery-validation.js",
+    "/js/popper.js": "/js/popper.js",
+    "/js/bootstrap.js": "/js/bootstrap.js",
+    "/js/jquery.dataTables.js": "/js/jquery.dataTables.js",
+    "/css/jquery.dataTables.css": "/css/jquery.dataTables.css",
+    "/js/libraries.js": "/js/libraries.js",
+    "/css/libraries.css": "/css/libraries.css",
+    "/js/moment.js": "/js/moment.js"
+}
